@@ -22,11 +22,6 @@
    cd smart-farm-dash
    ```
 
-8. Create the backend environment file by running:
-   ```
-   node backend/scripts/create-env.js
-   ```
-   This will create the required `backend/.env` file with default configuration.
 
 ## Execution Instructions
 
