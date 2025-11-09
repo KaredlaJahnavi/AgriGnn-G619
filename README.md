@@ -1,20 +1,4 @@
-Analyzing the project structure to generate setup and execution instructions.
-
-
-[16 tools called]
-
-
-Creating a setup and execution guide based on the project structure.
-
-
-[1 tool called]
-
-
-Setup and execution instructions:
-
----
-
-# Smart Farm Dashboard - Setup and Execution Instructions
+# Agri-GNN - Setup and Execution Instructions
 
 ## Setup Instructions
 
