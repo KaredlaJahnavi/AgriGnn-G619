@@ -1,4 +1,4 @@
-# Agri-GNN - Setup and Execution Instructions
+# Agri-GNN - Setup and Execution Instructions.
 
 ## Setup Instructions
 
